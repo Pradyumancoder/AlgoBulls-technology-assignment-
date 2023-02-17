@@ -1,3 +1,4 @@
+![Screenshot (10)](https://user-images.githubusercontent.com/97114184/219737995-cb53f088-b56a-416f-949e-c1f1baddd6f8.png)
 # AlgoBulls-technology-assignment-Todo Assignment 
 
 Tech-Stack -
